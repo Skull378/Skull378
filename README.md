@@ -2,12 +2,10 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github;You+Know+Who+Is+Handsome;Muhamad+Rizki+378;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Selamat+Datang+Di+Jalan+Setan;Perkembangan+Teknologi+Maling;By.+MUHAMAD+RIZKI;Pembunuhan+Dalam+Kegelapan+...&center=true"></a>
 
 </p>
 <h1 align="center">★ You Crazy ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
-<h1 align="center"><img src="https://raw.githubusercontent.com/Al-Vino/Al-Vino/main/giphy.webp"
-<h1 align="center"><img src="https://raw.githubusercontent.com/Al-Vino/Al-Vino/main/giphy%20(1).webp"
 <h1 align="center">★ STATISTICS ★</i></b></h3>
 <a href="https://github.com/Hunter-alamin"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hunter-alamin&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 <li> 😍 <i> MUSLIM</i></li>
